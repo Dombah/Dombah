@@ -27,14 +27,7 @@ Generates a full 3D brain angiography scan (TOF-MRA) from the routine T1, T2 and
  
 A production-shaped RAG service with a built-in evaluation harness: retrieval, grounded answers with citations, and metrics that catch hallucinations.
  
-`Python` `RAG` `vector search` `LLM evaluation`
- 
-#### [LLM from scratch](https://github.com/Dombah/LLM-From-Scratch)
- 
-A GPT-style language model built step by step: BPE tokenizer, data pipeline, attention, pretraining and fine-tuning.
- 
-`PyTorch` `transformers`
- 
+`Python` `RAG` `vector search` `LLM evaluation` 
 ---
  
 ### 🛠️ Stack
