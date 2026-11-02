@@ -26,8 +26,9 @@ Generates a full 3D brain angiography scan (TOF-MRA) from the routine T1, T2 and
 #### Sourcebound · *in progress*
  
 A production-shaped RAG service with a built-in evaluation harness: retrieval, grounded answers with citations, and metrics that catch hallucinations.
- 
+
 `Python` `RAG` `vector search` `LLM evaluation` 
+
 ---
  
 ### 🛠️ Stack
